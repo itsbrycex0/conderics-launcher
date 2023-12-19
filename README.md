@@ -10,7 +10,7 @@
 
 ## Dependecies
 - [EEL](https://github.com/python-eel/Eel)
-- [Flash](https://flask.palletsprojects.com/en/3.0.x/)
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/)
 - [UPX](https://upx.github.io/) (Optional)
 - [PyInstaller](https://pyinstaller.org/en/stable/) (Optional)
 
